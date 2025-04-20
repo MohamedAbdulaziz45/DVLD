@@ -1,0 +1,1302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|e:\\programming advices\\course 19\\my project\\(3)dvld project\\frmreplacementfordamagedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmreplacementfordamagedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmrenewlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmrenewlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmrenewlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmrenewlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmaddlocaldrivinglicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmaddlocaldrivinglicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmmanagedrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmmanagedrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmlocaldrivinglicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmlocaldrivinglicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmaddnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrldriverlicensewithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrldriverlicensewithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrldriverlicensewithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrldriverlicensewithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmlocaldrivinglicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmlocaldrivinglicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrldriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmnewinternationallicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmnewinternationallicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmmainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmmainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmmainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmmainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmmanagedrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmmanagedrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmlistinternationallicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmlistinternationallicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmreplacementfordamagedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmreplacementfordamagedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrldlappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrldlappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmissuedrivelicenseforfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmissuedrivelicenseforfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmdriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmdriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmupdateapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmlisttesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmlisttesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmupdatetesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmvisiontestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmvisiontestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrlperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrlperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrltaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrltaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmmanagepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\globalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:globalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C8E78BA-C8AF-42C7-A824-89FCF01E9DD8}|(3)DVLD Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsDetainedLicensesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsInternationalLicenseData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsDriversData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsLicensesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsTestAppointmentsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsTestsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsApplicationData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsLicenseClassData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsTestTypesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsApplicationTypesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsUserData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\DataAccessLayer\\clsPersonData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsDetainedLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsInternationalLicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsDriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsLicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsTestAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\LocalDrivingLicenseApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsLicenseClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsTestTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsApplicationTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming advices\\course 19\\BussinessLayer\\clsPerson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 66,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:28:47.699Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GlobalClass.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\GlobalClass.cs",
+              "RelativeDocumentMoniker": "GlobalClass.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\GlobalClass.cs",
+              "RelativeToolTip": "GlobalClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:03:23.342Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:16:24.751Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:34:56.39Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "clsDetainedLicensesData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsDetainedLicensesData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsDetainedLicensesData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsDetainedLicensesData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsDetainedLicensesData.cs",
+              "ViewState": "AQIAAJsBAAAAAAAAAADwv64BAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:15:21.273Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "clsInternationalLicenseData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsInternationalLicenseData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsInternationalLicenseData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsInternationalLicenseData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsInternationalLicenseData.cs",
+              "ViewState": "AQIAABABAAAAAAAAAADwvx4BAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:03:20.61Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "clsDriversData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsDriversData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsDriversData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsDriversData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsDriversData.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAAiwCoBAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:15:54.609Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "clsLicensesData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsLicensesData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsLicensesData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsLicensesData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsLicensesData.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAKsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:57:04.467Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "clsTestAppointmentsData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsTestAppointmentsData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsTestAppointmentsData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsTestAppointmentsData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsTestAppointmentsData.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAIwDcBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:22:57.458Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "clsTestsData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsTestsData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsTestsData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsTestsData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsTestsData.cs",
+              "ViewState": "AQIAADoBAAAAAAAAAAAuwEoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:19:24.628Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LocalDrivingLicenseApplicationData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs",
+              "ViewState": "AQIAACsBAAAAAAAAAAAYwD8AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:06:02.081Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "clsApplicationData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsApplicationData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsApplicationData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsApplicationData.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwIMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:34:55.536Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "clsLicenseClassData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsLicenseClassData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsLicenseClassData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsLicenseClassData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsLicenseClassData.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAIAwwG4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:57:26.903Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "clsTestTypesData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsTestTypesData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsTestTypesData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsTestTypesData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsTestTypesData.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwIQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:21:00.963Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "clsApplicationTypesData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsApplicationTypesData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsApplicationTypesData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsApplicationTypesData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsApplicationTypesData.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAwwIEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:48:33.717Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsUserData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsUserData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsUserData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsUserData.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABUBAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:04:45.77Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\DataAccessLayer\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataAccessLayer\\clsPersonData.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\DataAccessLayer\\clsPersonData.cs",
+              "RelativeToolTip": "..\\..\\DataAccessLayer\\clsPersonData.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAA4wIQBAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:13:51.891Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsDetainedLicense.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsDetainedLicense.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsDetainedLicense.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwI0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:51:20.744Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "clsInternationalLicenses.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsInternationalLicenses.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsInternationalLicenses.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsInternationalLicenses.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsInternationalLicenses.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAJ0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:45:35.239Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "clsDriver.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsDriver.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsDriver.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsDriver.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsDriver.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAhwF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:16:32.667Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsLicense.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsLicense.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsLicense.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsLicense.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswGcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:32:03.788Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "clsTestAppointment.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsTestAppointment.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsTestAppointment.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsTestAppointment.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsTestAppointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:32:51.951Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "clsTest.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsTest.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsTest.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsTest.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:20:17.571Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\LocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\LocalDrivingLicenseApplication.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\LocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\LocalDrivingLicenseApplication.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAmwIsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:31:34.456Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsApplication.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsApplication.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsApplication.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAEUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:37:22.562Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "clsLicenseClass.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsLicenseClass.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsLicenseClass.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsLicenseClass.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsLicenseClass.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAApwFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:14:21.437Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "clsTestTypes.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsTestTypes.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsTestTypes.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsTestTypes.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsTestTypes.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAcwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:31:35.766Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "clsApplicationTypes.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsApplicationTypes.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsApplicationTypes.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsApplicationTypes.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsApplicationTypes.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:10:19.428Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsUser.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsUser.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsUser.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:48:43.759Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\BussinessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\..\\BussinessLayer\\clsPerson.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\BussinessLayer\\clsPerson.cs",
+              "RelativeToolTip": "..\\..\\BussinessLayer\\clsPerson.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAArwJIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:13:09.872Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ctrlPerson.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlPerson.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlPerson.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlPerson.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:57:33.651Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlPersonCard.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:43:30.792Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmPersonDetails.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmPersonDetails.cs",
+              "RelativeDocumentMoniker": "frmPersonDetails.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmPersonDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmPersonDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:15:18.157Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:14:59.851Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmManagePeople.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmManagePeople.cs",
+              "RelativeDocumentMoniker": "frmManagePeople.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmManagePeople.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmManagePeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:30:30.346Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmAddEditPersonInfo.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmAddEditPersonInfo.cs",
+              "RelativeDocumentMoniker": "frmAddEditPersonInfo.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmAddEditPersonInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmAddEditPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:13:43.376Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmManageUsers.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmManageUsers.cs",
+              "RelativeDocumentMoniker": "frmManageUsers.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmManageUsers.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:17:42.655Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAddNewUser.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmAddNewUser.cs",
+              "RelativeDocumentMoniker": "frmAddNewUser.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmAddNewUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmAddNewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:22:27.382Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ctrlUserCard.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlUserCard.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlUserCard.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlUserCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:38:25.831Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmUserInfo.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "frmUserInfo.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmUserInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:26:04.28Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "frmChangePassword.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:31:05.789Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmLoginScreen.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmLoginScreen.cs",
+              "RelativeDocumentMoniker": "frmLoginScreen.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmLoginScreen.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmLoginScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:24:04.297Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmMainMenue.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmMainMenue.cs",
+              "RelativeDocumentMoniker": "frmMainMenue.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmMainMenue.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmMainMenue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:48:09.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmManageApplicationTypes.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmManageApplicationTypes.cs",
+              "RelativeDocumentMoniker": "frmManageApplicationTypes.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmManageApplicationTypes.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmManageApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:36:51.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmUpdateApplicationType.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmUpdateApplicationType.cs",
+              "RelativeDocumentMoniker": "frmUpdateApplicationType.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmUpdateApplicationType.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmUpdateApplicationType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:40:47.808Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmListTestTypes.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmListTestTypes.cs",
+              "RelativeDocumentMoniker": "frmListTestTypes.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmListTestTypes.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmListTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:16:41.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmUpdateTestType.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmUpdateTestType.cs",
+              "RelativeDocumentMoniker": "frmUpdateTestType.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmUpdateTestType.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmUpdateTestType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T00:49:07.062Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLocalDrivingLicenseApp.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmLocalDrivingLicenseApp.cs",
+              "RelativeDocumentMoniker": "frmLocalDrivingLicenseApp.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmLocalDrivingLicenseApp.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmLocalDrivingLicenseApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:22:42.207Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmManageDrivers.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmManageDrivers.cs",
+              "RelativeDocumentMoniker": "frmManageDrivers.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmManageDrivers.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmManageDrivers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:15:55.735Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAddLocalDrivingLicenseApp.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmAddLocalDrivingLicenseApp.cs",
+              "RelativeDocumentMoniker": "frmAddLocalDrivingLicenseApp.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmAddLocalDrivingLicenseApp.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmAddLocalDrivingLicenseApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T01:32:14.278Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmVisionTestAppointments.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmVisionTestAppointments.cs",
+              "RelativeDocumentMoniker": "frmVisionTestAppointments.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmVisionTestAppointments.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmVisionTestAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:54:39.806Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ctrlDLAppInfo.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlDLAppInfo.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlDLAppInfo.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlDLAppInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlDLAppInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:17:50.028Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ctrlScheduleTest.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlScheduleTest.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlScheduleTest.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlScheduleTest.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:10:55.098Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmIssueDriveLicenseForFirst.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmIssueDriveLicenseForFirst.cs",
+              "RelativeDocumentMoniker": "frmIssueDriveLicenseForFirst.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmIssueDriveLicenseForFirst.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmIssueDriveLicenseForFirst.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:48:26.892Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ctrlDriverLicenseInfo.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlDriverLicenseInfo.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlDriverLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlDriverLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:13:18.615Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmLicenseHistory.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmLicenseHistory.cs",
+              "RelativeDocumentMoniker": "frmLicenseHistory.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmLicenseHistory.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmLicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:12:19.244Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRenewLicenseApplication.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmRenewLicenseApplication.cs",
+              "RelativeDocumentMoniker": "frmRenewLicenseApplication.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmRenewLicenseApplication.cs [Design]",
+              "RelativeToolTip": "frmRenewLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:27:38.632Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmDriverInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmDriverInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "frmDriverInternationalLicenseInfo.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmDriverInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmDriverInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:52:09.713Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmNewInternationalLicenseApp.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmNewInternationalLicenseApp.cs",
+              "RelativeDocumentMoniker": "frmNewInternationalLicenseApp.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmNewInternationalLicenseApp.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmNewInternationalLicenseApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:30:16.875Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmLicenseInfo.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmLicenseInfo.cs",
+              "RelativeDocumentMoniker": "frmLicenseInfo.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:20:43.198Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmTakeTest.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "frmTakeTest.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmTakeTest.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmTakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:10:25.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ctrlTakeTest.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlTakeTest.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlTakeTest.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlTakeTest.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlTakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:15:51.48Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ctrlDriverLicenseWithFilter.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlDriverLicenseWithFilter.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlDriverLicenseWithFilter.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlDriverLicenseWithFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlDriverLicenseWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:05:55.742Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlDriverInternationalLicenseInfo.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\Controls\\ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\Controls\\ctrlDriverInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:39:39.113Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmListInternationalLicenseApp.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmListInternationalLicenseApp.cs",
+              "RelativeDocumentMoniker": "frmListInternationalLicenseApp.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmListInternationalLicenseApp.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmListInternationalLicenseApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:06:34.143Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmReplacementForDamagedLicense.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmReplacementForDamagedLicense.cs",
+              "RelativeDocumentMoniker": "frmReplacementForDamagedLicense.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmReplacementForDamagedLicense.cs [Design]",
+              "RelativeToolTip": "frmReplacementForDamagedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:04:33.805Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReplacementForDamagedLicense.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmReplacementForDamagedLicense.cs",
+              "RelativeDocumentMoniker": "frmReplacementForDamagedLicense.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmReplacementForDamagedLicense.cs",
+              "RelativeToolTip": "frmReplacementForDamagedLicense.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAgwIwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:09:04.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRenewLicenseApplication.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmRenewLicenseApplication.cs",
+              "RelativeDocumentMoniker": "frmRenewLicenseApplication.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmRenewLicenseApplication.cs",
+              "RelativeToolTip": "frmRenewLicenseApplication.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAcwHgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:31:34.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ctrlDriverLicenseWithFilter.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlDriverLicenseWithFilter.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlDriverLicenseWithFilter.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlDriverLicenseWithFilter.cs",
+              "RelativeToolTip": "Controls\\ctrlDriverLicenseWithFilter.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:13:15.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmPersonDetails.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmPersonDetails.cs",
+              "RelativeDocumentMoniker": "frmPersonDetails.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmPersonDetails.cs",
+              "RelativeToolTip": "frmPersonDetails.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:41:01.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmLocalDrivingLicenseApp.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmLocalDrivingLicenseApp.cs",
+              "RelativeDocumentMoniker": "frmLocalDrivingLicenseApp.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmLocalDrivingLicenseApp.cs",
+              "RelativeToolTip": "frmLocalDrivingLicenseApp.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAAswBoBAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:40:00.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmMainMenue.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmMainMenue.cs",
+              "RelativeDocumentMoniker": "frmMainMenue.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmMainMenue.cs",
+              "RelativeToolTip": "frmMainMenue.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwI8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:56:34.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmManageDrivers.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmManageDrivers.cs",
+              "RelativeDocumentMoniker": "frmManageDrivers.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmManageDrivers.cs",
+              "RelativeToolTip": "frmManageDrivers.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:34:26.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ctrlDriverLicenseInfo.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Controls\\ctrlDriverLicenseInfo.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\Controls\\ctrlDriverLicenseInfo.cs",
+              "RelativeToolTip": "Controls\\ctrlDriverLicenseInfo.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowKkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:06:10.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmListDetainedLicenses.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "frmListDetainedLicenses.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmListDetainedLicenses.cs",
+              "RelativeToolTip": "frmListDetainedLicenses.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAqwNcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:04:06.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmListDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "frmListDetainedLicenses.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmListDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmListDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:59:42.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmDetainLicense.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "frmDetainLicense.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmDetainLicense.cs",
+              "RelativeToolTip": "frmDetainLicense.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowFQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:33:28.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDetainLicense.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "frmDetainLicense.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmDetainLicense.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmDetainLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:06:31.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmReleaseDetainedLicense.cs",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "frmReleaseDetainedLicense.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmReleaseDetainedLicense.cs",
+              "RelativeToolTip": "frmReleaseDetainedLicense.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAAANUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:08:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReleaseDetainedLicense.cs [Design]",
+              "DocumentMoniker": "E:\\programming advices\\course 19\\My Project\\(3)DVLD Project\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "frmReleaseDetainedLicense.cs",
+              "ToolTip": "E:\\programming advices\\course 19\\(3)DVLD Project\\frmReleaseDetainedLicense.cs [Design]",
+              "RelativeToolTip": "..\\..\\(3)DVLD Project\\frmReleaseDetainedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:57:09.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

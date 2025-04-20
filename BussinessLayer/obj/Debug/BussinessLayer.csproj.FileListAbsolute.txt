@@ -1,0 +1,9 @@
+E:\programming advices\course 19\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\programming advices\course 19\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\programming advices\course 19\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\programming advices\course 19\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\programming advices\course 19\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+E:\programming advices\course 19\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+E:\programming advices\course 19\BussinessLayer\obj\Debug\Bussines.E1038C4E.Up2Date
+E:\programming advices\course 19\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\programming advices\course 19\BussinessLayer\obj\Debug\BussinessLayer.pdb
